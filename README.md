@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/janhvirajput01/SpaceTourism.git)
-- Live Site URL: [Add live site URL here](https://janhvirajput01.github.io/SpaceTourism/)
+- Live Site URL: [live site URL here](https://janhvirajput01.github.io/SpaceTourism/)
 
 
 ## My process
