@@ -554,7 +554,7 @@ nav ul li:hover::after,
   .tech_left_content {
     /* background-color: red; */
     margin-top: 1rem;
-    margin-left: 1rem;
+
     flex-direction: column-reverse;
   }
   .terminology H2 {
