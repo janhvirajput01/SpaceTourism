@@ -450,11 +450,15 @@ nav ul li:hover::after,
     padding-right: 1rem;
   }
   .content {
+    margin-top: 3rem;
+    position: relative;
     flex-direction: column;
+    height: 70vh;
   }
   .content .left {
     text-align: center;
-    width: 70vw;
+    height: 50vh;
+    width: 90vw;
     height: 30vh;
   }
   .content .right {
